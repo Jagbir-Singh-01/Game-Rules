@@ -8,7 +8,7 @@ In this assignment we will:
 *  implement a recursive function
 
 
-## Part A: Drawings (5 marks), Due May 31. No late submissions accepted for part A
+## Part A: Drawings 
 
 In your repository you will find two pdf file containing some diagrams.  Decide if you will implement your part B with or without the use of sentinel nodes and use the diagram file that matches your decision for Part A.
 
@@ -26,7 +26,7 @@ Modify each of the lists in the drawings to show the result of the operation ind
      * A bunch of individual images will not be graded, it needs to be in **one** pdf file.
 
 
-## Part B: Implement a Sorted Doubly Linked list (10 marks)
+## Part B: Implement a Sorted Doubly Linked list 
 
 The class declarations have been created in the a1_partb.py starter file.  You are responsible to write all the listed functions.
 
@@ -136,7 +136,7 @@ This function returns a reference to the node containing data if it exists withi
 
 
 
-## Part C - Stack, Queue, Deque(10 marks)
+## Part C - Stack, Queue, Deque 
 
 Implementation of the three classes are done in a1_partc.py
 
@@ -440,7 +440,7 @@ Runtime requirement for this function is O(1)
 ---
 
 
-## Part D - Overflow (10 marks):
+## Part D - Overflow :
 
 Implementation of these function are done in a1_partd.py
 
